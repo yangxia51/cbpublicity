@@ -16,7 +16,8 @@
 * Flex：flex弹性布局
 * CSS3：CSS3过渡动画及样式
 * element-ui：饿了么出品的一套基于vue2.0的桌面组件库
-
+## 部分展示
+![Image text](https://github.com/yangxia51/cbpublicity/blob/master/static/img/sy.jpg)
 ## Build Setup
 ``` bash
 # install dependencies
